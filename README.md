@@ -1,21 +1,9 @@
 # This is Lanima version 2.7.0
 
-<img src="./assets/logo.svg" width="100%">
-
 <div align="right">
     <strong> 简体中文</strong> | <a href="/docs/en_US/README.md"> English</a> | <a href="/docs/zh_TW/README.md"> 繁体中文</a>
 </div>
 <br>
-
-[![GitHub issues](https://img.shields.io/github/issues/lamina-dev/Lamina)](https://github.com/Lamina-dev/Lamina/issues)
-[![GitHub stars](https://img.shields.io/github/stars/lamina-dev/Lamina?style=flat)](https://github.com/Lamina-dev/Lamina/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/lamina-dev/Lamina?style=flat)](https://github.com/Lamina-dev/Lamina/forks) 
-[![GitHub contributors](https://img.shields.io/github/contributors/lamina-dev/Lamina?style=flat)](https://github.com/Lamina-dev/Lamina/graphs/contributors)
-![GitHub last commit](https://img.shields.io/github/last-commit/lamina-dev/Lamina?style=flat)
-[![License](https://img.shields.io/badge/license-LGPLv2.1-blue.svg)](LICENSE)
-[![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)](https://isocpp.org/)
-[![Math](https://img.shields.io/badge/math-precise-green.svg)](#精确数学特性)
-[![QQ](https://img.shields.io/badge/QQ-%E4%BA%A4%E6%B5%81%E7%BE%A4-red?logo=qq&logoColor=white)](https://qm.qq.com/q/QwPXCgsJea)
 
 
 ## 一种专注于精确数学计算的以面向过程为主体的编程语言
