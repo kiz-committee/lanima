@@ -6,8 +6,6 @@
 <br>
 
 
-## 一种专注于精确数学计算的以面向过程为主体的编程语言
-
 [语法指南](docs/zh_CN/wiki.md) • [示例代码](/examples) • [编译指南](/docs/zh_CN/Compile.md) • [贡献指南](/docs/zh_CN/CONTRIBUTING.md) • [Wiki](https://wiki.lm-lang.org) • [动态库插件开发](/docs/zh_CN/PLUGIN_GUIDE.md) • [ToDo list](TODO.md) • [What's new](/docs/zh_CN/NewFeature.md) • [LSR](https://github.com/Lamina-dev/LSR) • [官方论坛](https://forum.lm-lang.org/)
 
 ## 精确数学特性
