@@ -1,4 +1,4 @@
-# <img src="./assets/logo-icon.svg" width="10%"> This is Lamina version 1.1.0 (Release Candidate 0 )
+# This is Lanima version 2.7.0
 
 <img src="./assets/logo.svg" width="100%">
 
@@ -6,8 +6,6 @@
     <strong> 简体中文</strong> | <a href="/docs/en_US/README.md"> English</a> | <a href="/docs/zh_TW/README.md"> 繁体中文</a>
 </div>
 <br>
-
-### RC阶段停止接收新特性、语法、功能，仅作为debug阶段。
 
 [![GitHub issues](https://img.shields.io/github/issues/lamina-dev/Lamina)](https://github.com/Lamina-dev/Lamina/issues)
 [![GitHub stars](https://img.shields.io/github/stars/lamina-dev/Lamina?style=flat)](https://github.com/Lamina-dev/Lamina/stargazers)
